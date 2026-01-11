@@ -1,0 +1,11 @@
+# binarios compilados
+maker
+*.out
+*.exe
+
+# thumbnails generados
+*_th.jpg
+
+# videos de prueba
+*.webm
+*.mp4
